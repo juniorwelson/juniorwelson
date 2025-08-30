@@ -1,6 +1,6 @@
-# 👨‍💻 Welson | Desenvolvedor Web Full Stack
+# 👨‍💻 Welson | Desenvolvedor Web 
 
-Sou um desenvolvedor web com foco em performance, escalabilidade e manutenibilidade de aplicações. Tenho experiência em projetos utilizando tecnologias modernas do ecossistema JavaScript, com domínio em **Vue.js**, **Bootstrap**, **HTML/CSS**, **JavaScript**, **SQL** e **metodologias ágeis (Scrum)**.
+Sou um desenvolvedor web com foco em performance, escalabilidade e manutenibilidade de aplicações. Tenho experiência em projetos utilizando tecnologias modernas do ecossistema JavaScript, com domínio em **Vue.js**, **Bootstrap**, **HTML/CSS**, **JavaScript**,  e **metodologias ágeis (Scrum)**.
 
 ---
 
@@ -8,13 +8,11 @@ Sou um desenvolvedor web com foco em performance, escalabilidade e manutenibilid
 
 ### 🔹 Front-End
 - ⚙️ HTML5, CSS3, JavaScript (ES6+)
-- 🧩 Vue.js (componentização, Vue CLI, Vue Router, Vuex)
+- 🧩 Vue.js (componentização, Vue CLI, Vue Router,)
 - 🎨 Bootstrap (design responsivo e UI rápida)
 - 🧠 Boas práticas de acessibilidade e UX
 
-### 🔹 Back-End & Banco de Dados
-- 🗃️ SQL (CRUD, modelagem de dados, joins, procedures)
-- 📡 Integração com APIs REST
+
 
 ### 🔹 Ferramentas & Workflow
 - 🛠️ Git & GitHub (controle de versão e colaboração)
@@ -31,10 +29,9 @@ Sou um desenvolvedor web com foco em performance, escalabilidade e manutenibilid
 
 
 💼 LinkedIn
- (adicione seu link real)
+**www.linkedin.com/in/welson-junior-a587b72b8**
 
-✉️ seuemail@exemplo.com
- (substitua pelo seu email real)
+✉️ **eujuniorplus@gmail.com**
 
 🌐 Portfólio
- (caso tenha)
+ **https://juniorwelson.github.io/portifolio/**
